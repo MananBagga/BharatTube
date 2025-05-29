@@ -1,0 +1,17 @@
+{
+  "name": "bharattube",
+  "version": "1.0.0",
+  "description": "Alternative of Youtube, a video streaming and content creation platform",
+  "keywords": [
+    "javascript",
+    "backend",
+    "MERN"
+  ],
+  "license": "ISC",
+  "author": "Manan Bagga",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
